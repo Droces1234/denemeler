@@ -1,0 +1,15 @@
+C:\Users\Windows10\source\repos\herneyse\herneyse\bin\Debug\herneyse.exe.config
+C:\Users\Windows10\source\repos\herneyse\herneyse\bin\Debug\herneyse.exe
+C:\Users\Windows10\source\repos\herneyse\herneyse\bin\Debug\herneyse.pdb
+C:\Users\Windows10\source\repos\herneyse\herneyse\bin\Debug\Interop.WMPLib.dll
+C:\Users\Windows10\source\repos\herneyse\herneyse\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows10\source\repos\herneyse\herneyse\obj\Debug\Interop.WMPLib.dll
+C:\Users\Windows10\source\repos\herneyse\herneyse\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows10\source\repos\herneyse\herneyse\obj\Debug\herneyse.csproj.ResolveComReference.cache
+C:\Users\Windows10\source\repos\herneyse\herneyse\obj\Debug\herneyse.Form1.resources
+C:\Users\Windows10\source\repos\herneyse\herneyse\obj\Debug\herneyse.Properties.Resources.resources
+C:\Users\Windows10\source\repos\herneyse\herneyse\obj\Debug\herneyse.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\herneyse\herneyse\obj\Debug\herneyse.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\herneyse\herneyse\obj\Debug\herneyse.exe
+C:\Users\Windows10\source\repos\herneyse\herneyse\obj\Debug\herneyse.pdb
+C:\Users\Windows10\source\repos\herneyse\herneyse\obj\Debug\herneyse.csprojAssemblyReference.cache
